@@ -76,14 +76,6 @@ footer {
     width: 90%;
   }
 
-  .step-img1{
-   max-width: 100%;
-   max-height: 100%;
-   width: auto;
-   height: auto;
-  }
-
-
   .step-box:last-child{
     margin: 0 0 0 20px;
   }
